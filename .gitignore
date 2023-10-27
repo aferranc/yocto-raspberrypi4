@@ -1,4 +1,4 @@
-bitbake-cookerdaemon.log
+build/bitbake*
 cache/
 downloads/
 sstate-cache/
